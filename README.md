@@ -30,6 +30,3 @@ Após a instalação, inicie o Baixador de Áudio do YouTube a partir do menu In
 
 ## Créditos
 Este projeto foi criado por [Caioosm] como um projeto pessoal.
-
-## Licença
-Este projeto está licenciado sob a Licença [Nome da Licença] - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
