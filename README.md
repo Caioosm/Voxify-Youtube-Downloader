@@ -23,7 +23,10 @@ A aplicação será distribuída como um instalador executável para o sistema o
 - Adicionar suporte para outros sistemas operacionais, como macOS e Linux, utilizando ferramentas de criação de instaladores adequadas para essas plataformas.
 
 ## Instalação
-Para instalar o Baixador de Áudio do YouTube, basta baixar o instalador na página de releases e executá-lo no seu sistema Windows. Siga as instruções na tela para completar o processo de instalação.
+Para instalar o Baixador de Áudio do YouTube, basta baixar o instalador no link do google drive abaixo:
+https://drive.google.com/drive/u/0/folders/1yX8pxwLOnzXNOZLuy0tzDflLBGpsdoui
+Após baixado, execute o arquivo "setup_Voxify.exe" em seu windows e siga os passos.
+
 
 ## Uso
 Após a instalação, inicie o Baixador de Áudio do YouTube a partir do menu Iniciar ou atalho na área de trabalho. Insira a URL do vídeo do YouTube no campo designado e escolha a pasta de destino onde deseja salvar o áudio. Clique no botão "Baixar Áudio" para iniciar o processo de download. A barra de progresso indicará o status do download e da conversão.
